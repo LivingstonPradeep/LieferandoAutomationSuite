@@ -1,0 +1,99 @@
+{
+	"testDataSuite": [
+		{
+			"env": "dev",
+			"testData": [
+				{
+					"testId": "1",
+					"name": "VerifyDefaultAddressSearch",
+					"method": "testSearchAddress",
+					"description": "Verify Address with proper search term in default homepage",
+					"searchTerm": "Adersstrasse 81",
+					"browser": "chrome"
+				},
+				{
+					"testId": "2",
+					"name": "VerifyIncorrectDefaultAddressSearch",
+					"method": "testInvalidSearchString",
+					"description": "Verify Address with incorrect search term in default homepage",
+					"searchTerm": "djfhaskfhaökjfhdaflkja",
+					"browser": "IE"
+				},
+				{
+					"testId": "3",
+					"name": "VerifyDefaultPincodeSearch",
+					"method": "testSearchPincode",
+					"description": "Verify pincode with correct search term in default homepage",
+					"searchTerm": "40215",
+					"address": "Düsseldorf, 40215",
+					"browser": "chrome"
+				},
+				{
+					"testId": "4",
+					"name": "VerifyDefaultIncorrectPincodeSearch",
+					"method": "testSearchIncorrectPincode",
+					"description": "Verify pincode with incorrect search term in default homepage",
+					"searchTerm": "402154",
+					"browser": "chrome"
+				},
+				{
+					"testId": "5",
+					"name": "VerifySuggestion",
+					"method": "selectAnySuggestion",
+					"description": "Verify if the nth suggestion configured in the test data works as expected",
+					"searchTerm": "pionierstrasse 7",
+					"suggestionIndex": "2",
+					"browser": "chrome"
+				},
+				{
+					"testId": "6",
+					"name": "VerifyIncompleteAddress",
+					"method": "verifyIncompleteAddress",
+					"description": "Verify if incomplete address notification is shown",
+					"searchTerm": "pio",
+					"suggestionIndex": "2",
+					"browser": "chrome"
+				},
+				{
+					"testId": "7",
+					"name": "VerifyGUI",
+					"description": "Verify if the search box and show button are displayed",
+					"browser": "chrome"
+				},
+				{
+					"testId": "8",
+					"name": "ClickShowButton",
+					"description": "Click Show button with empty search bar",
+					"browser": "chrome"
+				},
+				{
+					"testId": "9",
+					"name": "TestSearchAddressUsingShow",
+					"method": "testSearchAddressUsingShow",
+					"description": "Verify Address with proper search term in default homepage and hit Show",
+					"searchTerm": "Adersstrasse 81",
+					"browser": "chrome"
+				},
+				{
+					"testId": "10",
+					"name": "TestInvalidSearchStringUsingShow",
+					"method": "testInvalidSearchStringUsingShow",
+					"description": "Verify Address with incorrect search term in default homepage and hit Show",
+					"searchTerm": "djfhaskfhaökjfhdaflkja",
+					"browser": "IE"
+				}
+			]
+		},
+		{
+			"env": "prod",
+			"testData": [
+				{
+					"testId": "1",
+					"name": "VerifyAddressSearch",
+					"searchTerm": "Adersstrasse 81",
+					"browser": "chrome"
+				}
+			]
+		}
+	]
+}

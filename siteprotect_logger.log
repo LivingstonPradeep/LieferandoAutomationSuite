@@ -1,0 +1,853 @@
+2017-12-10 22:19:50,881 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:19:51,015 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:19:59,063 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:35:23,274 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-10 22:35:23,280 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:35:23,282 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:35:27,121 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:39:07,777 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:39:07,873 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:39:18,311 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:39:21,571 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:46:47,984 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:46:48,021 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:46:53,055 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:46:56,235 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:47:05,433 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 22:47:47,601 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:47:47,633 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:47:52,551 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:47:55,723 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:48:09,313 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 22:49:16,144 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:49:16,169 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:49:20,543 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:49:23,724 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:51:20,770 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:51:20,803 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:51:24,814 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:51:28,005 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:51:34,267 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 22:53:10,180 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:53:10,208 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:53:14,093 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:53:17,271 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:53:23,932 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 22:53:52,345 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:53:52,376 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:53:56,379 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:53:59,562 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:54:29,529 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:54:42,511 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:55:00,124 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:55:03,333 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:56:14,987 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:56:21,421 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:56:32,167 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:56:35,366 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:58:36,904 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:58:36,931 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:58:41,479 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:58:44,670 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:58:53,930 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 22:59:19,991 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 22:59:20,017 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 22:59:24,737 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 22:59:27,933 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 22:59:37,989 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 23:00:35,135 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 23:01:09,444 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 23:01:09,470 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 23:01:12,961 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 23:01:16,130 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 23:01:24,426 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 23:06:44,034 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 23:06:44,064 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 23:06:47,824 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 23:06:50,843 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 23:07:16,458 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 23:07:16,489 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 23:07:20,525 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 23:07:23,553 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 23:08:04,838 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 23:08:04,867 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 23:08:08,798 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 23:08:11,817 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 23:08:28,125 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 23:08:50,239 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 23:09:13,191 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 23:09:13,351 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 23:09:17,041 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 23:09:20,062 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 23:09:27,685 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-10 23:09:57,929 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-10 23:09:57,957 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-10 23:10:01,356 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-10 23:10:04,378 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-10 23:10:16,733 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:14:43,778 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:14:43,804 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:14:49,256 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:14:52,535 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:15:00,574 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:27:46,982 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:27:47,009 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:27:51,358 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:27:54,378 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:28:01,315 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:28:02,928 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 21:28:03,060 [main] ERROR com.lieferando.page.ObjectRepository - There was no address in the address bar
+2017-12-11 21:28:34,962 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:28:35,001 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:28:40,177 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:28:43,201 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:28:58,503 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:29:12,020 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 21:46:27,813 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:46:27,843 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:46:31,893 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:46:34,913 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:46:43,428 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:46:45,314 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 21:47:17,996 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:47:18,032 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:47:22,093 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:47:25,114 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:47:34,347 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:47:58,367 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 21:48:48,569 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:48:48,596 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:48:52,790 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:48:55,815 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:49:03,375 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:49:05,163 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 21:49:05,294 [main] ERROR com.lieferando.page.ObjectRepository - There was no address in the address bar
+2017-12-11 21:50:06,710 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:50:06,738 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:50:10,373 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:50:13,401 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:50:19,512 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:50:21,193 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 21:51:51,776 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 21:51:51,801 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 21:51:55,198 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 21:51:58,214 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 21:52:04,279 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 21:52:05,903 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 21:52:09,445 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-11 22:04:10,450 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:04:10,476 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:04:14,860 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:04:17,883 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:04:26,433 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:04:28,289 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:04:30,340 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-11 22:04:33,067 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-11 22:05:31,066 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:05:31,099 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:05:34,612 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:05:37,640 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:05:44,209 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:05:45,932 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:05:47,978 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-11 22:05:49,244 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-11 22:05:54,312 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-11 22:05:54,313 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:05:54,314 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:05:58,187 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:06:01,207 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:06:07,698 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:06:09,402 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:07:05,810 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:07:05,837 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:07:09,281 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:07:12,309 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:07:23,845 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:07:25,586 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:07:27,696 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-11 22:07:33,164 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-11 22:07:38,213 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-11 22:07:38,214 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:07:38,214 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:07:40,994 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:07:44,026 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:07:51,013 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:07:52,733 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:11:24,651 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:11:24,712 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:11:28,518 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:11:31,683 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:11:37,476 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:11:39,638 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:11:41,695 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-11 22:11:43,020 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-11 22:11:48,098 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-11 22:11:48,099 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:11:48,100 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:11:51,812 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:11:54,829 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:12:01,172 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:12:02,787 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:13:27,611 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:13:27,648 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:13:30,894 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:13:33,916 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:13:41,005 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:13:42,715 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:13:44,774 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-11 22:13:47,569 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-11 22:13:52,962 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-11 22:13:52,963 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:13:52,964 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:13:56,741 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:13:59,755 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:14:08,170 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:18:32,835 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:18:32,861 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:18:36,884 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:18:39,909 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:18:45,722 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:18:47,355 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 22:18:49,424 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-11 22:18:51,493 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-11 22:18:56,931 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-11 22:18:56,932 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 22:18:56,932 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 22:18:59,566 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 22:19:02,585 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 22:19:07,837 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 22:19:09,367 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-11 23:10:12,408 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-11 23:10:12,410 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-11 23:10:12,416 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:10:12,443 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:10:16,349 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:10:19,369 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:10:25,780 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:10:27,100 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :40215
+2017-12-11 23:11:32,041 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-11 23:11:32,043 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-11 23:11:32,047 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:11:32,071 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:11:36,135 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:11:39,157 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:11:46,477 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:11:47,906 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 23:11:50,764 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-11 23:12:37,927 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-11 23:12:38,451 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-11 23:12:39,062 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:12:39,162 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:12:51,861 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:12:54,901 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:14:58,807 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:15:00,492 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 23:15:36,617 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-11 23:16:06,434 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :4*******************
+2017-12-11 23:16:06,437 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with incorrect search term in default homepage
+2017-12-11 23:16:06,441 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:16:06,465 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:16:10,059 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:16:13,079 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:16:19,991 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:16:21,373 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-11 23:41:29,147 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-11 23:41:29,150 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-11 23:41:29,154 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:41:29,183 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:41:33,199 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:41:36,217 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:42:46,825 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:42:56,220 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-11 23:43:36,977 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-11 23:43:36,980 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-11 23:43:36,984 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:43:37,015 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:43:40,565 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:43:43,582 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:43:54,851 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:44:18,336 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-11 23:46:36,187 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-11 23:46:36,190 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-11 23:46:36,194 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:46:36,219 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:46:39,543 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:46:42,558 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:46:49,980 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:46:53,493 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-11 23:46:53,645 [main] ERROR com.lieferando.page.ObjectRepository - There was no address in the address bar
+2017-12-11 23:47:35,230 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-11 23:47:35,233 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-11 23:47:35,238 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:47:35,265 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:47:38,910 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:47:41,926 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:47:50,209 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-11 23:47:53,788 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-11 23:47:57,626 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-11 23:59:02,753 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-11 23:59:02,755 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-11 23:59:02,759 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-11 23:59:02,784 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-11 23:59:06,122 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-11 23:59:09,139 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-11 23:59:15,718 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 00:00:17,000 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-12 00:00:17,002 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-12 00:00:17,006 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 00:00:17,031 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 00:00:20,372 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 00:00:23,388 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 00:00:28,903 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 00:00:32,347 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 00:27:44,827 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 00:27:44,829 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 00:28:19,561 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 00:28:19,563 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 00:28:19,567 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 00:28:19,595 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 00:28:22,984 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 00:28:26,008 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 00:29:57,982 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 00:29:57,986 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 00:29:57,989 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 00:29:58,013 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 00:30:02,144 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 00:30:05,164 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 00:30:48,103 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 00:30:48,106 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 00:30:48,109 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 00:30:48,135 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 00:30:51,461 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 00:30:54,514 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 00:31:24,417 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 00:31:24,420 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 00:31:24,425 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 00:31:24,451 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 00:31:27,979 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 00:31:30,999 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:24:11,984 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 01:24:11,987 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 01:24:11,990 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:24:12,019 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:24:16,118 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:24:19,140 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:39:42,945 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 01:39:42,948 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 01:39:42,952 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:39:42,978 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:39:46,993 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:39:50,010 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:40:00,059 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :1*******************
+2017-12-12 01:40:00,059 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage
+2017-12-12 01:40:00,060 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:40:00,060 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:40:03,363 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:40:06,378 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:40:12,220 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:40:13,769 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 01:40:15,808 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-12 01:40:17,493 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-12 01:40:21,835 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :2*******************
+2017-12-12 01:40:21,837 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage
+2017-12-12 01:40:23,880 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 01:40:23,880 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:40:23,881 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:40:27,168 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:40:30,188 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:40:35,445 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:40:37,025 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 01:40:41,379 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-12 01:40:41,380 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-12 01:40:41,381 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:40:41,382 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:40:44,360 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:40:47,380 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:40:52,721 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:40:54,111 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 01:40:57,086 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-12 01:41:01,472 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-12 01:41:01,473 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-12 01:41:01,473 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:41:01,474 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:41:05,113 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:41:08,129 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:41:13,702 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:41:17,296 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 01:41:20,875 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-12 01:42:53,270 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 01:42:53,277 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 01:42:53,283 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:42:53,314 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:42:57,602 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:43:00,830 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:43:13,585 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :1*******************
+2017-12-12 01:43:13,585 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage
+2017-12-12 01:43:13,586 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:43:13,587 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:43:16,292 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:43:19,307 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:43:26,405 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:43:27,977 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 01:43:30,021 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-12 01:43:31,410 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-12 01:43:35,762 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :2*******************
+2017-12-12 01:43:35,763 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage
+2017-12-12 01:43:37,857 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 01:43:37,858 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:43:37,859 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:43:40,455 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:43:43,471 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:43:49,485 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:43:50,985 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 01:43:57,183 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-12 01:43:57,183 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-12 01:43:57,184 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:43:57,185 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:43:59,335 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:44:02,347 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:44:07,962 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:44:09,322 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 01:44:12,334 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-12 01:44:16,698 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-12 01:44:16,698 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-12 01:44:16,699 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:44:16,700 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:44:19,263 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:44:22,277 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:44:27,613 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:44:31,243 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 01:44:34,256 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-12 01:48:39,288 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :4*******************
+2017-12-12 01:48:39,307 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with incorrect search term in default homepage
+2017-12-12 01:48:39,315 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:48:39,364 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:48:42,971 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:48:45,989 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:48:54,060 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:48:55,456 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 01:49:02,245 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-12 01:49:02,247 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-12 01:49:02,248 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 01:49:02,249 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 01:49:08,222 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 01:49:11,247 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 01:49:18,704 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 01:49:22,126 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 10:06:41,489 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :4*******************
+2017-12-12 10:06:41,509 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with incorrect search term in default homepage
+2017-12-12 10:06:41,520 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:06:41,562 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:06:47,789 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:06:50,818 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:06:57,125 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 10:06:58,815 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 10:07:05,285 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-12 10:07:05,285 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-12 10:07:05,286 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:07:05,286 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:07:09,159 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:07:12,188 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:07:17,796 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 10:07:21,433 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 10:08:57,163 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:08:57,167 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:08:57,173 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:08:57,203 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:09:00,794 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:09:03,824 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:09:13,959 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :1*******************
+2017-12-12 10:09:13,960 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage
+2017-12-12 10:09:13,961 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:09:13,962 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:09:17,051 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:09:20,084 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:09:25,246 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 10:09:27,091 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 10:09:29,179 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-12 10:09:33,006 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-12 10:09:37,407 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :2*******************
+2017-12-12 10:09:37,408 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage
+2017-12-12 10:09:39,474 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 10:09:39,475 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:09:39,477 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:09:42,289 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:09:45,319 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:09:51,027 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 10:09:52,843 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 10:09:57,216 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-12 10:09:57,216 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-12 10:09:57,217 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:09:57,217 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:09:59,781 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:10:02,818 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:10:08,487 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 10:10:10,124 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 10:10:14,307 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-12 10:10:18,686 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-12 10:10:18,686 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-12 10:10:18,687 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:10:18,688 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:10:21,470 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:10:24,502 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:10:29,880 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 10:10:33,749 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 10:10:37,714 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-12 10:42:28,773 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:42:28,776 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:42:28,781 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:42:28,815 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:42:32,435 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:42:35,456 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:43:37,453 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:43:37,455 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:43:37,461 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:43:37,492 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:43:41,613 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:43:44,649 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:44:57,631 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:44:57,634 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:44:57,638 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:44:57,665 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:45:02,365 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:45:05,406 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:47:02,287 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:47:02,290 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:47:02,297 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:47:02,330 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:47:07,041 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:47:10,081 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:52:52,927 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:52:52,929 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:52:52,936 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:52:52,969 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:52:57,187 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:53:00,230 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:54:43,689 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:54:43,692 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:54:43,697 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:54:43,724 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:54:48,366 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:54:51,404 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:57:44,348 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:57:44,351 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:57:44,355 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:57:44,384 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:57:48,495 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:57:51,533 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 10:59:51,244 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 10:59:51,248 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 10:59:51,252 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 10:59:51,282 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 10:59:54,828 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 10:59:57,871 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:00:03,655 [main] INFO  com.lieferando.page.ObjectRepository - Clicking on Show Button
+2017-12-12 11:00:03,894 [main] INFO  com.lieferando.page.ObjectRepository - Verifying Delivery Area Error
+2017-12-12 11:14:41,379 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 11:14:41,382 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 11:14:41,387 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:14:41,422 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:14:46,972 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:14:50,009 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:14:56,749 [main] INFO  com.lieferando.page.ObjectRepository - Clicking on Show Button
+2017-12-12 11:14:57,057 [main] INFO  com.lieferando.page.ObjectRepository - Verifying Delivery Area Error
+2017-12-12 11:15:03,408 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :1*******************
+2017-12-12 11:15:03,409 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage
+2017-12-12 11:15:03,411 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:15:03,412 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:15:07,457 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:15:10,486 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:15:16,825 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:15:18,835 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:15:20,884 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-12 11:15:24,756 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-12 11:15:31,126 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :2*******************
+2017-12-12 11:15:31,127 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage
+2017-12-12 11:15:33,211 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 11:15:33,213 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:15:33,215 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:15:36,884 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:15:39,911 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:15:45,358 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:15:47,089 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 11:15:53,392 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-12 11:15:53,393 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-12 11:15:53,393 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:15:53,394 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:15:56,441 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:15:59,475 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:16:05,924 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:16:07,439 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:16:11,356 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-12 11:16:17,858 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-12 11:16:17,859 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-12 11:16:17,859 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:16:17,860 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:16:21,565 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:16:24,592 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:16:29,769 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:16:33,440 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 11:16:38,644 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-12 11:16:44,984 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :4*******************
+2017-12-12 11:16:44,985 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with incorrect search term in default homepage
+2017-12-12 11:16:44,988 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:16:44,989 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:16:48,371 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:16:51,395 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:16:57,987 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:16:59,656 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:17:08,246 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-12 11:17:08,247 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-12 11:17:08,248 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:17:08,249 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:17:11,062 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:17:14,098 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:17:19,620 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:17:23,061 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 11:21:20,766 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 11:21:20,769 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 11:21:20,775 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:21:20,806 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:21:24,911 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:21:27,957 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:21:33,480 [main] INFO  com.lieferando.page.ObjectRepository - Clicking on Show Button
+2017-12-12 11:21:33,768 [main] INFO  com.lieferando.page.ObjectRepository - Verifying Delivery Area Error
+2017-12-12 11:21:40,129 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :1*******************
+2017-12-12 11:21:40,130 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage
+2017-12-12 11:21:40,130 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:21:40,132 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:21:42,725 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:21:45,767 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:21:51,418 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:21:53,241 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:21:55,336 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-12 11:21:57,876 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-12 11:22:04,414 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :2*******************
+2017-12-12 11:22:04,415 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage
+2017-12-12 11:22:06,484 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 11:22:06,485 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:22:06,485 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:22:09,142 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:22:12,178 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:22:17,516 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:22:19,104 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 11:22:25,418 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-12 11:22:25,419 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-12 11:22:25,421 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:22:25,421 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:22:28,326 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:22:31,360 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:22:36,602 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:22:38,211 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:22:41,665 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-12 11:22:48,021 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-12 11:22:48,022 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-12 11:22:48,022 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:22:48,023 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:22:50,698 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:22:53,727 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:22:59,369 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:23:03,196 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 11:23:06,570 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-12 11:23:13,052 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 11:23:13,052 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 11:23:13,052 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:23:13,053 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:23:15,856 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:23:18,888 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:23:31,945 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :4*******************
+2017-12-12 11:23:31,946 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with incorrect search term in default homepage
+2017-12-12 11:23:31,948 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:23:31,949 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:23:34,775 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:23:37,803 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:23:43,210 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:23:44,888 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:23:53,343 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-12 11:23:53,344 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-12 11:23:53,344 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:23:53,345 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:23:56,112 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:23:59,150 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:24:04,789 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:24:08,300 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 11:27:37,882 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 11:27:37,885 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 11:27:37,891 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:27:37,921 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:27:41,507 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:27:44,542 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:27:50,052 [main] INFO  com.lieferando.page.ObjectRepository - Clicking on Show Button
+2017-12-12 11:27:50,327 [main] INFO  com.lieferando.page.ObjectRepository - Verifying Delivery Area Error
+2017-12-12 11:27:57,792 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :1*******************
+2017-12-12 11:27:57,793 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage
+2017-12-12 11:27:57,794 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:27:57,795 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:28:00,432 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:28:03,464 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:28:08,513 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:28:10,323 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:28:12,399 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-12 11:28:14,532 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-12 11:28:21,892 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :2*******************
+2017-12-12 11:28:21,892 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage
+2017-12-12 11:28:23,952 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 11:28:23,953 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:28:23,953 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:28:26,767 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:28:29,802 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:28:35,303 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:28:37,177 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 11:28:44,525 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-12 11:28:44,525 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-12 11:28:44,526 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:28:44,526 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:28:47,147 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:28:50,171 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:28:55,833 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:28:57,324 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:29:00,685 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-12 11:29:08,079 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-12 11:29:08,080 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-12 11:29:08,082 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:29:08,083 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:29:10,790 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:29:13,827 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:29:19,380 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:29:23,053 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 11:29:27,314 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-12 11:29:34,704 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 11:29:34,704 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 11:29:34,705 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:29:34,705 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:29:37,555 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:29:40,583 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:29:55,224 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :4*******************
+2017-12-12 11:29:55,225 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with incorrect search term in default homepage
+2017-12-12 11:29:55,225 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:29:55,226 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:29:58,064 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:30:01,090 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:30:06,662 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:30:08,166 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 11:30:17,674 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-12 11:30:17,674 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-12 11:30:17,675 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 11:30:17,675 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 11:30:20,516 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 11:30:23,550 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 11:30:29,539 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 11:30:33,120 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 12:17:05,506 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 12:17:05,510 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 12:17:05,515 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 12:17:05,544 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 12:17:17,744 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :9*******************
+2017-12-12 12:17:17,746 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage and hit Show
+2017-12-12 12:17:17,751 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 12:17:17,775 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 12:17:22,180 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 12:17:25,216 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 12:17:30,731 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 12:17:32,503 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Show button
+2017-12-12 12:17:40,026 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :10*******************
+2017-12-12 12:17:40,027 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage and hit Show
+2017-12-12 12:17:42,053 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 12:17:42,053 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 12:17:42,054 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 12:17:46,077 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 12:17:49,099 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 12:17:55,075 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 12:17:56,787 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 13:05:05,887 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 13:05:05,897 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 13:05:05,905 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:05:05,938 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:05:10,958 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:05:13,977 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:05:20,080 [main] INFO  com.lieferando.page.ObjectRepository - Clicking on Show Button
+2017-12-12 13:05:20,449 [main] INFO  com.lieferando.page.ObjectRepository - Verifying Delivery Area Error
+2017-12-12 13:06:03,380 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :8*******************
+2017-12-12 13:06:03,385 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Click Show button with empty search bar
+2017-12-12 13:06:03,395 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:06:03,457 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:06:08,094 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:06:11,113 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:06:16,501 [main] INFO  com.lieferando.page.ObjectRepository - Clicking on Show Button
+2017-12-12 13:06:16,830 [main] INFO  com.lieferando.page.ObjectRepository - Verifying Delivery Area Error
+2017-12-12 13:06:24,176 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :1*******************
+2017-12-12 13:06:24,177 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage
+2017-12-12 13:06:24,177 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:06:24,178 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:06:28,014 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:06:31,027 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:06:36,701 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:06:38,334 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 13:06:40,406 [main] INFO  com.lieferando.base.BaseClass - Asserting if the input address :Adersstraße 81, Düsseldorf is present in the address bar of Search Landing Page
+2017-12-12 13:06:42,875 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Adersstraße 81, Düsseldorf
+2017-12-12 13:06:50,956 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :2*******************
+2017-12-12 13:06:50,956 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage
+2017-12-12 13:06:53,029 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 13:06:53,029 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:06:53,030 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:06:56,715 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:06:59,728 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:07:05,259 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:07:06,939 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja
+2017-12-12 13:07:14,272 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :3*******************
+2017-12-12 13:07:14,273 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with correct search term in default homepage
+2017-12-12 13:07:14,273 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:07:14,274 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:07:16,992 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:07:20,016 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:07:24,978 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:07:26,404 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 13:07:28,850 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Düsseldorf, 40215
+2017-12-12 13:07:36,220 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :5*******************
+2017-12-12 13:07:36,220 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the nth suggestion configured in the test data works as expected
+2017-12-12 13:07:36,222 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:07:36,223 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:07:39,237 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:07:42,255 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:07:47,366 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:07:51,091 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 13:07:54,325 [main] INFO  com.lieferando.page.ObjectRepository - Address Found in the address bar is :Pionierstraße 7, Berlin
+2017-12-12 13:08:01,828 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :7*******************
+2017-12-12 13:08:01,828 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if the search box and show button are displayed
+2017-12-12 13:08:01,829 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:08:01,830 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:08:08,813 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:08:11,833 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:08:25,803 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :4*******************
+2017-12-12 13:08:25,804 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify pincode with incorrect search term in default homepage
+2017-12-12 13:08:25,805 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:08:25,805 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:08:28,807 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:08:31,827 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:08:37,513 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:08:39,053 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Enter
+2017-12-12 13:08:48,744 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :6*******************
+2017-12-12 13:08:48,744 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify if incomplete address notification is shown
+2017-12-12 13:08:48,745 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:08:48,746 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:08:51,543 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:08:54,564 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:08:59,716 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:09:03,247 [main] INFO  com.lieferando.page.ObjectRepository - Select the suggestion
+2017-12-12 13:09:12,775 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :9*******************
+2017-12-12 13:09:12,776 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with proper search term in default homepage and hit Show
+2017-12-12 13:09:12,777 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:09:12,778 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:09:16,294 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:09:19,303 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:09:25,065 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:09:26,820 [main] INFO  com.lieferando.page.ObjectRepository - Hitting Show button
+2017-12-12 13:09:36,173 [main] INFO  com.lieferando.base.BaseClass - *******************Test Case ID :10*******************
+2017-12-12 13:09:36,173 [main] INFO  com.lieferando.base.BaseClass - Test Case Description :Verify Address with incorrect search term in default homepage and hit Show
+2017-12-12 13:09:38,212 [main] ERROR com.lieferando.base.BaseClass - Could not create IE driver. Continuing test case with Chrome Driver
+2017-12-12 13:09:38,213 [main] INFO  com.lieferando.base.BaseClass - Creating Chrome Driver
+2017-12-12 13:09:38,214 [main] INFO  com.lieferando.base.BaseClass - Setting Chrome Capabilities and initiating Chrome Driver
+2017-12-12 13:09:42,155 [main] INFO  com.lieferando.commonUtils.CommonUtils - Maximising browser window
+2017-12-12 13:09:45,168 [main] INFO  com.lieferando.commonUtils.CommonUtils - Hitting the URL https://www.lieferando.de/
+2017-12-12 13:09:49,719 [main] INFO  com.lieferando.page.ObjectRepository - Typing address into search box
+2017-12-12 13:09:51,319 [main] ERROR com.lieferando.page.ObjectRepository - No Suggestions found for entered address string :djfhaskfhaökjfhdaflkja

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="10" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="238308" started-at="2017-12-12T12:06:03Z" finished-at="2017-12-12T12:10:01Z">
+    <groups>
+    </groups>
+    <test name="SearchTest" duration-ms="238308" started-at="2017-12-12T12:06:03Z" finished-at="2017-12-12T12:10:01Z">
+      <class name="com.lieferando.suite.TestAddressSearch">
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="initialSetup" is-config="true" duration-ms="92" started-at="2017-12-12T13:06:03Z" finished-at="2017-12-12T13:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-12-12T13:06:03Z" finished-at="2017-12-12T13:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="clickShowButton(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="clickShowButton" duration-ms="13494" started-at="2017-12-12T13:06:03Z" finished-at="2017-12-12T13:06:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickShowButton -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7305" started-at="2017-12-12T13:06:16Z" finished-at="2017-12-12T13:06:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickShowButton status=SUCCESS method=TestAddressSearch.clickShowButton(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="testSearchAddress(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="testSearchAddress" duration-ms="18700" started-at="2017-12-12T13:06:24Z" finished-at="2017-12-12T13:06:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchAddress -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:06:24Z" finished-at="2017-12-12T13:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="8079" started-at="2017-12-12T13:06:42Z" finished-at="2017-12-12T13:06:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchAddress status=SUCCESS method=TestAddressSearch.testSearchAddress(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="testInvalidSearchString(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="testInvalidSearchString" duration-ms="15985" started-at="2017-12-12T13:06:50Z" finished-at="2017-12-12T13:07:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearchString -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:06:50Z" finished-at="2017-12-12T13:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7330" started-at="2017-12-12T13:07:06Z" finished-at="2017-12-12T13:07:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testInvalidSearchString status=SUCCESS method=TestAddressSearch.testInvalidSearchString(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:07:14Z" finished-at="2017-12-12T13:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testSearchPincode(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="testSearchPincode" duration-ms="14579" started-at="2017-12-12T13:07:14Z" finished-at="2017-12-12T13:07:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchPincode -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7367" started-at="2017-12-12T13:07:28Z" finished-at="2017-12-12T13:07:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchPincode status=SUCCESS method=TestAddressSearch.testSearchPincode(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="selectAnySuggestion(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="selectAnySuggestion" duration-ms="18106" started-at="2017-12-12T13:07:36Z" finished-at="2017-12-12T13:07:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAnySuggestion -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:07:36Z" finished-at="2017-12-12T13:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7501" started-at="2017-12-12T13:07:54Z" finished-at="2017-12-12T13:08:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=selectAnySuggestion status=SUCCESS method=TestAddressSearch.selectAnySuggestion(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:08:01Z" finished-at="2017-12-12T13:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyGUI(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="verifyGUI" duration-ms="16676" started-at="2017-12-12T13:08:01Z" finished-at="2017-12-12T13:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGUI -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7298" started-at="2017-12-12T13:08:18Z" finished-at="2017-12-12T13:08:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyGUI status=SUCCESS method=TestAddressSearch.verifyGUI(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-12-12T13:08:25Z" finished-at="2017-12-12T13:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testSearchIncorrectPincode(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="testSearchIncorrectPincode" duration-ms="15322" started-at="2017-12-12T13:08:25Z" finished-at="2017-12-12T13:08:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchIncorrectPincode -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7617" started-at="2017-12-12T13:08:41Z" finished-at="2017-12-12T13:08:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchIncorrectPincode status=SUCCESS method=TestAddressSearch.testSearchIncorrectPincode(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="verifyIncompleteAddress(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="verifyIncompleteAddress" duration-ms="16711" started-at="2017-12-12T13:08:48Z" finished-at="2017-12-12T13:09:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIncompleteAddress -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:08:48Z" finished-at="2017-12-12T13:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7320" started-at="2017-12-12T13:09:05Z" finished-at="2017-12-12T13:09:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyIncompleteAddress status=SUCCESS method=TestAddressSearch.verifyIncompleteAddress(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="FAIL" signature="testSearchAddressUsingShow(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="testSearchAddressUsingShow" duration-ms="14164" started-at="2017-12-12T13:09:12Z" finished-at="2017-12-12T13:09:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
+            <message>
+              <![CDATA[element not visible
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'E0273819', ip: '47.73.99.2', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\ALOYSI~1\AppData\Local\Temp\scoped_dir24096_28376}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 03941c68cbd22a32ab875acf77064e6b]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'E0273819', ip: '47.73.99.2', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\ALOYSI~1\AppData\Local\Temp\scoped_dir24096_28376}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 03941c68cbd22a32ab875acf77064e6b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at com.lieferando.page.HomePage.searchUsingShowAndGetFirstSuggestion(HomePage.java:202)
+	at com.lieferando.suite.TestAddressSearch.testSearchAddressUsingShow(TestAddressSearch.java:284)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchAddressUsingShow -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:09:12Z" finished-at="2017-12-12T13:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="9222" started-at="2017-12-12T13:09:26Z" finished-at="2017-12-12T13:09:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchAddressUsingShow status=FAILURE method=TestAddressSearch.testSearchAddressUsingShow(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="testInvalidSearchStringUsingShow(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="testInvalidSearchStringUsingShow" duration-ms="15148" started-at="2017-12-12T13:09:36Z" finished-at="2017-12-12T13:09:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearchStringUsingShow -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-12T13:09:36Z" finished-at="2017-12-12T13:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterTestMethod" is-config="true" duration-ms="7348" started-at="2017-12-12T13:09:51Z" finished-at="2017-12-12T13:09:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testInvalidSearchStringUsingShow status=SUCCESS method=TestAddressSearch.testInvalidSearchStringUsingShow(java.lang.String)[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="afterSuiteMethod()[pri:0, instance:com.lieferando.suite.TestAddressSearch@c87b21]" name="afterSuiteMethod" is-config="true" duration-ms="3001" started-at="2017-12-12T13:09:58Z" finished-at="2017-12-12T13:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethod -->
+      </class> <!-- com.lieferando.suite.TestAddressSearch -->
+    </test> <!-- SearchTest -->
+  </suite> <!-- Suite -->
+</testng-results>
